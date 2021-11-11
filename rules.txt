@@ -1,1 +1,4 @@
-Test
+General rules - about the music bots
+
+§1 
+Command Spamming is prohibited, multiple violations result in the guild or the user being blacklisted.
